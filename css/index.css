@@ -1,0 +1,52 @@
+#main{
+    max-height: 1400px;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #dddddd;
+    border-radius: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#main h2{
+    text-align: center;
+}
+
+#main > p{
+    text-align: center;
+}
+
+.text-img{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+.text-img .img{
+    display: block;
+    padding-bottom: 15px;
+    margin: 0 auto;
+    max-width: 100%
+}
+
+#img-caption{
+    text-align: center;
+}
+.tribute-info{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.tribute-info h3{
+    text-align: center;
+}
+
+.tribute-info > ul li{
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+
+.tribute-info h5{
+    text-align: center;
+}
